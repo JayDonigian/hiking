@@ -1,0 +1,2 @@
+# hiking
+A Hiking Blog
